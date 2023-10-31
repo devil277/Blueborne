@@ -49,5 +49,5 @@ sock.close()
 
 p.success('Done')
 
-print hexdump(stack)
+
 
